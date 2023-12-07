@@ -1,0 +1,5 @@
+venv/
+AI model/resources/
+.idea/
+**/.DS_Store
+**/__pycache__/
